@@ -1,0 +1,34 @@
+{
+    "FBMESSENGER" : {
+        "alias": "Facebook Messenger",
+        "image": "fbm"
+    },
+    "CHATBOTIKAWEBCHAT" : {
+        "alias": "Webchat",
+        "image": "webchat"
+    },
+    "TWITTERDM" : {
+        "alias": "TWitter Direct Messenger",
+        "image": "twdm"
+    },
+    "IGDM" : {
+        "alias": "Instagram Direct Messenger",
+        "image": "igdm"
+    },
+    "IGCOMMENT" : {
+        "alias": "Instagram Comment",
+        "image": "ig-comment"
+    },
+    "FACEBOOK" : {
+        "alias": "Facebook",
+        "image": "fb"
+    },
+    "WHATSAPP" : {
+        "alias": "WhatsApp",
+        "image": "wa"
+    },
+    "TWITTER" : {
+        "alias": "Twitter",
+        "image": "twitter"
+    }
+}

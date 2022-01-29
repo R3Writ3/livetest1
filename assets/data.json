@@ -1,0 +1,383 @@
+{
+  "data":  [{
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/1.jpg",
+      "name":"Giselle",
+      "user_id":"kdrfg634",
+      "read":true,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly":true
+      },
+      "active": false,
+      "chat_type" : "FBMESSENGER",
+      "chats":[
+        {
+          "from":"user",
+          "message":"Halo kakak",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "gdfw8i93rfw3kugh"
+        },
+        {
+          "from":"user",
+          "message":"Saya punya keluhan",
+          "time":"2021-12-11 01:01",
+          "chat_log_id" : "gdfwfghnr658i93rfw3kugh"
+        },
+        {
+          "from":"me",
+          "message":"Iya kakak, silahkan tanya disini",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "dw3243534523"
+        }
+      ]
+    },
+    {
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/2.jpg",
+      "name":"Vanessa",
+      "user_id":"adwdaw934jk",
+      "read":false,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "active": false,
+      "chat_type" : "FBMESSENGER",
+      "chats":[
+        {
+          "from":"user",
+          "message":"hai kak!",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "gdfw8i93rfawd12w3kugh"
+        },
+        {
+          "from":"user",
+          "message":"hai barangnya ready?",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "gdfw8i93rfw3kugh9hfase"
+        },
+        {
+          "from":"user",
+          "message":"hai hari ini saya bisa ambil",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "gdfw85634i93rfw3kugh"
+        },
+        {
+          "from":"me",
+          "message":"hai kak, barang ready",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "gdfw8i93rf67n h"
+        },
+        {
+          "from":"user",
+          "message":"segera ambil di toko kami ya kak!",
+          "time":"2021-12-11 01:00",
+          "chat_log_id" : "dnkmfkg489720"
+        }
+      ]
+    },
+    {
+      "avatar":null,
+      "name":"Hana",
+      "user_id":"aduiw733h",
+      "read":false,
+      "active": true,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Robert Lewandowski", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "chat_type" : "CHATBOTIKAWEBCHAT",
+      "chats":[
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-11 01:01",
+          "chat_log_id" : "gedrtg4w56245634567234"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-11 01:02",
+          "chat_log_id" : "rtgfhysrt5y423452"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-11 01:03",
+          "chat_log_id" : "FEWRFWAQ3453456TFGAZ34"
+        },
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-11 01:04",
+          "chat_log_id" : "retgw34R346DFGA34RFW"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-11 01:05",
+          "chat_log_id" : "rfwerfwseftger4ftgae4rat"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-16 01:06",
+          "chat_log_id" : "rftgear4ftgwe4rt3456q21354"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-16 01:07",
+          "chat_log_id" : "tyhdhjthtwe4rafw3rwa"
+        },
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-16 01:08",
+          "chat_log_id" : "rthwerw34r324r5345"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-16 01:08",
+          "chat_log_id" : "gdrsvgfheratga3453"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-20 01:09",
+          "chat_log_id" : "thbne56736546465"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-20 01:10",
+          "chat_log_id" : "tghsr5tg456g45tg4"
+        },
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-20 01:40",
+          "chat_log_id" : "sreter56y5e6734th4s"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-20 01:50",
+          "chat_log_id" : "dawrfgrtge4r56456"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-20 02:01",
+          "chat_log_id" : "dawEcfgthr5t654"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-20 02:10",
+          "chat_log_id" : "dawedw3er345v46256"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-20 01:02",
+          "chat_log_id" : "sazdfwserfewsr4a53"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:03",
+          "chat_log_id" : "dawdaklwhdoaihdiauw"
+        },
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:04",
+          "chat_log_id" : "dawndawndkjauwhduaw78"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:05",
+          "chat_log_id" : "erjdfhneik4uhrik34538"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:06",
+          "chat_log_id" : "b465wvb456b657"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:07",
+          "chat_log_id" : "b567bn6378567n367567"
+        },
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:08",
+          "chat_log_id" : "b4567w4563b657"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:08",
+          "chat_log_id" : "b456bn56736735673"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:09",
+          "chat_log_id" : "er5tbertvr5645s6b4"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:10",
+          "chat_log_id" : " 2456245t6456245672frg"
+        },
+        {
+          "from":"me",
+          "message":"hai kakak!",
+          "time":"2021-12-21 1:40",
+          "chat_log_id" : "v24564257257245675"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 01:50",
+          "chat_log_id" : "4b5634w56b376845"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 02:01",
+          "chat_log_id" : "rbv56434523453"
+        },
+        {
+          "from":"user",
+          "message":"hai kakak!",
+          "time":"2021-12-21 02:10",
+          "chat_log_id" : "6784rhvb6456"
+        }
+      ]
+    },
+    {
+      "avatar":null,
+      "name":" Uvuvwevwevwe Onyetenvewve Ugwemubwem Ossas",
+      "read":false,
+      "active": false,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "user_id":"s9edjm3049fych0w",
+      "chat_type" : "FACEBOOK",
+      "chats":[]
+    },
+    {
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/5.jpg",
+      "name":"Nikita",
+      "user_id":"sfn39w84s",
+      "read":false,
+      "active": false,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "chat_type" : "FBMESSENGER",
+      "chats":[]
+    },
+    {
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/1.jpg",
+      "name":"Giselle",
+      "user_id":"fmwsohr9312",
+      "read":false,
+      "active": false,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "chat_type" : "TWITTER",
+      "chats":[]
+    },
+    {
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/2.jpg",
+      "name":"Vanessa",
+      "user_id":"adikwujiuw1q56",
+      "read":false,
+      "active": false,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "chat_type" : "IGCOMMENT",
+      "chats":[]
+    },
+    {
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/3.jpg",
+      "name":"Hana",
+      "user_id":"mwsf0e9r23n80910",
+      "read":false,
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "active": false,
+      "chat_type" : "IGDM",
+      "chats":[]
+    },
+    {
+      "avatar":"https://cdn.vuetifyjs.com/images/lists/4.jpg",
+      "name":"Geisha",
+      "user_id":"fmws3n56u78q2w0",
+      "ticket": {
+        "status": "new",
+        "priority": "medium",
+        "tags" : ["Nganu2", "Nganu", "Nganu3"],
+        "category" : "Aneh",
+        "note": [{"text" : "ticket bubar", "readonly" : true, "agent" : "Luky", "time" : "2021-12-11 01:01" }],
+        "readonly": false
+      },
+      "read":false,
+      "active": false,
+      "chat_type" : "IGCOMMENT",
+      "chats":[]
+    }
+  ],
+  "chat_types": [ "IGCOMMENT", "CHATBOTIKAWEBCHAT", "FBMESSENGER", "TWITTERDM", "IGDM", "FACEBOOK", "WHATSAPP", "TWITTER" ],
+  "names" : ["Hana", "Annisa", "Gisella", "Anastasia", "Sasha", "Vanessa", "Ambiiyah"]
+}
